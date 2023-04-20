@@ -324,30 +324,64 @@ Solução
 Ao configurar adequadamente os roteadores da empresa, é possível implementar medidas de segurança avançadas, como firewalls, criptografia de dados, controle de acesso e monitoramento de tráfego de rede. Isso ajudará a proteger a rede da empresa contra ataques externos e garantir que as informações confidenciais da empresa permaneçam seguras.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </p>
 
 
+<hr>
+<b>PORTFOLIO DE SERVIÇOS</b>
+<p>Serviços oferecidos:
+
+Nós fornecemos desenvolvimento de software personalizado para criar soluções únicas e personalizadas para atender às necessidades específicas dos nossos clientes.
+
+Oferecemos consultoria em tecnologia da informação para ajudar nossos clientes na tomada de decisões estratégicas, gestão de projetos, otimização de processos e identificação de oportunidades de melhoria.
+
+Configuramos, implementamos e gerenciamos a infraestrutura de TI e rede para garantir alta disponibilidade e desempenho.
+
+Nós protegemos os sistemas e dados dos nossos clientes contra ameaças internas e externas, além de garantir a conformidade com as leis e regulamentações de segurança cibernética.
+
+Automatizar tarefas repetitivas e processos de negócios para aumentar a eficiência, reduzir erros e aumentar a produtividade.
+
+Implementamos soluções de gerenciamento de relacionamento com o cliente para melhorar a interação e a fidelização dos nossos clientes, bem como aumentar a eficiência do processo de vendas e marketing.
+
+
+Principais clientes:
+
+Empresa de manufatura de equipamentos médicos
+
+Instituição financeira regional
+
+Rede de lojas de varejo de moda
+
+Empresa de logística e transporte de carga
+
+Rede de restaurantes fast-food
 
 
 
+
+Nós trabalhamos com diversos setores e oferecemos serviços personalizados para atender às necessidades específicas de cada cliente. Ao longo dos anos, estabelecemos relacionamentos duradouros com nossos principais clientes e estamos comprometidos em fornecer soluções de tecnologia da informação de alta qualidade e confiáveis.
+</p>
+<b>NORMAS ABNT DE CABEAMENTO DA REDE</b>
+<p>Elementos funcionais Para edifícios comerciais, a ABNT NBR 14565 define diversos elementos funcionais para o cabeamento, que são: 
+
+Distribuidor de campus (CD);
+
+Backbone de campus;
+	
+Distribuidor de edifício (BD);
+Backbone de edifício; 
+
+Distribuidor de piso (FD); 
+Cabeamento horizontal; 
+	
+Ponto de consolidação (CP);
+	
+ Cabo do ponto de consolidação (cabo do CP); 
+	
+Tomada de telecomunicações multiusuário (MUTO);
+	
+ Tomada de telecomunicações (TO). 
+</p>
 
 
 
